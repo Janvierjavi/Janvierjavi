@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Janvierjavi/Janvierjavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Janvierjavi/Janvierjavi** 
 
 Here are some ideas to get you started:
 
