@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my portofilo 
 - 🌱 I’m currently learning nodejs
 - 👯 I’m looking to collaborate Ruby on rails 
-- 🤔 I’m looking for help with Express.js
+- 🤔 I’m looking for help with React.js
 - 💬 Ask me about Ruby on Rails 
 - 📫 How to reach me: janvierjavim2@gmail.com or mutuyimanajanvier@ymail.com
 
